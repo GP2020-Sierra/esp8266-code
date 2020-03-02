@@ -21,3 +21,8 @@ ArduinoIDE can be used, but is harder to use.
 ## Programming
 
 To program the ESP8266 you need an USB to UART converter. You plug your ESP8266 into the USB to UART converter, and then ensure you have pulled GPIO0 to ground (we used a jumper wire to do this).
+
+## Atttribution
+
+The majority of the wifi code is derived from [kalanda/esp8266-sniffer](https://github.com/kalanda/esp8266-sniffer).
+The DHT11 capture is powered by the Adafruit sensor libraries
