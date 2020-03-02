@@ -1,6 +1,10 @@
 # ESP8266-data
 
-This code allows the ESP8266 to gather wifi packets and to get data from the DHT11
+This code allows the ESP8266 to gather wifi packets and to get data from the 
+
+For information about our project, see our [README repo](https://github.com/GP2020-Sierra/README)
+
+[License](/LICENSE)
 
 ## Introduction
 
